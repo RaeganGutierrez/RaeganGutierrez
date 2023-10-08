@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi, I'm Raegan 👋
+I am a Data Scientist with specialization in Machine Learning and Data Automation.
 <!--
 **RaeganGutierrez/RaeganGutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
