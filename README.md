@@ -1,4 +1,6 @@
 ## Hi, I'm Raegan 👋
+![github banner](https://github.com/RaeganGutierrez/RaeganGutierrez/assets/83890586/6a34bf7b-5b28-44fd-a55e-68f3eb0a4671)
+
 I am a Data Scientist with specialization in Machine Learning and Data Automation.
 
 ### About Me
