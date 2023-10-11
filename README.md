@@ -1,5 +1,19 @@
-### Hi, I'm Raegan 👋
+## Hi, I'm Raegan 👋
 I am a Data Scientist with specialization in Machine Learning and Data Automation.
+
+### About Me
+- Data Scientist at Nordstrom
+- Data Querying with SQL Server
+- Ad-hoc analyses relating to: ML, Data Mining, Data Automation in R & Python
+- NLP & Deep Learning in Python
+- Dashboards and interactive visualizations in Tableau
+
+### Projects
+Check out my Portfolio for projects I am currently working on!
+
+### Connect 
+- Connect on [LinkedIn](www.linkedin.com/in/raegan-gutierrez)
+- Send me an Email: raegan_gutierrez@yahoo.com
 <!--
 **RaeganGutierrez/RaeganGutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
