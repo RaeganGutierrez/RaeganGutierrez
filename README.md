@@ -4,7 +4,7 @@
 I am a Data Scientist with specialization in Machine Learning and Data Automation.
 
 ### About Me
-- Data Scientist at Nordstrom
+- 5+ years of experience
 - Data Querying with SQL Server
 - Ad-hoc analyses relating to: ML, Data Mining, Data Automation in R & Python
 - NLP & Deep Learning in Python
