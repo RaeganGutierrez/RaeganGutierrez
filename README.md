@@ -4,7 +4,7 @@
 I am a Data Scientist with specialization in Machine Learning and Data Automation.
 
 ### About Me
-- 5+ years of experience
+- 6+ years of experience
 - Data Querying with SQL Server
 - Ad-hoc analyses relating to: ML, Data Mining, Data Automation in R & Python
 - NLP & Deep Learning in Python
